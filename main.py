@@ -3,7 +3,7 @@
 #define a function
 def password(p):
     if p == "Knights19":
-        return "ACCESS GRNATED"
+        return "ACCESS GRANTED"
 
     else:
         return "ACCESS DENIED"
