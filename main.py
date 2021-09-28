@@ -3,10 +3,10 @@
 #define a function
 def password(p):
     if p == "Knights19":
-        return "Access Granted"
+        return "ACCESS GRNATED"
 
     else:
-        return "Access Denied"
+        return "ACCESS DENIED"
 
 #Run the function
 print(password("Knights19"))
